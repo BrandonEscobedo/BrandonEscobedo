@@ -1,4 +1,4 @@
-## Hi there 👋
+## Estudiante de ingenieria en tecnología de sofware   
 
 <!--
 **BrandonEscobedo/BrandonEscobedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
